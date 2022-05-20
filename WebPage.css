@@ -247,6 +247,14 @@ nav .navbar a {
   background: var(--nav-main);
 }
 
+h4 {
+ font-family: "Times New Roman", Times, serif;
+ font-weight: 300;
+ font-size: 26px;
+ line-height: 1.4em;
+ color: #404040;
+}
+
 .home-content a i {
   transform: rotate(45deg);
   font-size: 16px;
